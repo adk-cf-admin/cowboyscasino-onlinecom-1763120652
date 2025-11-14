@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://cowboyscasino-online.com/
+Sitemap: https://cowboyscasino-online.com/sitemap.xml

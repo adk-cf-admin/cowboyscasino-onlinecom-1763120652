@@ -1,0 +1,19 @@
+{
+  "name": "Cowboys Casino",
+  "short_name": "Cowboys Casino",
+  "theme_color": "",
+  "background_color": "#080808",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763046050-favicon-staticwixstaticcom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
